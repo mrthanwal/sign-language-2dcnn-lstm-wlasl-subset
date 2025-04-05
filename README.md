@@ -40,8 +40,6 @@ $ cd sign-language-2dcnn-lstm-wlasl-subset
 $ python -m venv venv
 $ source venv/bin/activate  # On Windows: venv\Scripts\activate
 
-# Install dependencies
-$ pip install -r requirements.txt
 ```
 
 > ⚠️ Ensure you have MediaPipe, TensorFlow, OpenCV, and numpy installed.
